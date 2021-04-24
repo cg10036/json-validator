@@ -2,7 +2,7 @@
  * required can be boolean, string, array, null, undefined
  * boolean is null or undefined or false: not required
  * data[string] is null or undefined or false: not required
- * data[array[0]][array[1]]... is null or undefined of false: not required
+ * data[array[0]][array[1]]... is null or undefined or false: not required
  *
  * object can be validate with "content"
  *
